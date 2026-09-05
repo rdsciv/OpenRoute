@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "STICK — 2026 Breakout Board",
+      "hasCanvas": false,
+      "bodyTextLen": 7590,
+      "bodyTextHash": "c9464db3cb92aae98d6c65355dc88ba7b2f7ba2bb03b9c4ce2087d81cee5cb7c",
+      "bodyTextPrefix": "SUMERSPORTS · 2025 USAGE → 2026 STICK Pass-catcher breakouts ran",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "STICK — 2026 Breakout Board",
+      "hasCanvas": false,
+      "bodyTextLen": 5306,
+      "bodyTextHash": "f4e26b005a5eae296a3ceeb5c7688c2a95348e4545d3411b81562ea3f6149aa8",
+      "bodyTextPrefix": "SUMERSPORTS · 2025 USAGE → 2026 STICK Pass-catcher breakouts ran",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
